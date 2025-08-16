@@ -1,0 +1,9 @@
+what is done:
+- ChromaDB is created 
+- When query is entered similar info retrieved and combined with llm and gets to response 
+
+what to do:
+- do the rag with chain 
+- chat interface with memory buffer 
+- improving interface
+- summarizer, after uploading youtube video show summary of video
